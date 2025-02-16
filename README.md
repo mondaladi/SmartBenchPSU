@@ -17,7 +17,7 @@ The PSU takes input from a laptop adapter and steps it down to a user-defined vo
 | Rotary Encoder A (CLK) | 7             | Quadrature input |
 | Rotary Encoder B (DT) | 8             | Quadrature input |
 | Encoder Button (SW) | 9              | User input for current limit adjustment |
-| PWM output (LM2596 Feedback Pin) | 10 | Limits output current of the LM2596 buck converter |
+| PWM Output (LM2596 Feedback Pin) | 10 | Limits output current of the LM2596 buck converter |
 | Power Input   | VIN, GND         | Connected to laptop adapter using a Mini360 buck converter |
 
 ## Challenges Faced  
