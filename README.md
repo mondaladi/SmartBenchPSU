@@ -1,6 +1,5 @@
 # Smart Bench Power Supply
 
-## Introduction  
 This project is a DIY Smart Bench Power Supply designed to regulate voltage and current using an old 45W laptop adapter, an LM2596 buck converter, an INA219 current sensor, a 16x2 I2C LCD, and an Arduino Nano. The PSU features software-based constant current control by manipulating the LM2596 feedback pin via a high-frequency PWM signal.  
 
 ---
