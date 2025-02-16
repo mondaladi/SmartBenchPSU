@@ -1,5 +1,4 @@
 # Smart Bench Power Supply
-
 ---
 
 ## Introduction  
