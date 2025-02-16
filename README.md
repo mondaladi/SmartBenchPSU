@@ -25,6 +25,11 @@ The PSU takes input from a laptop adapter and steps it down to a user-defined vo
 
 ---
 
+## Code Variants
+This repository includes two versions of the code. One uses hardware-based PWM by directly manipulating timers for precise control. The other uses the PWM.h library, which abstracts the process and allows for high-frequency software-based PWM, making it easier to implement.
+
+---
+
 ## Challenges Faced  
 One of the main challenges encountered was PWM interference affecting the voltage adjustment potentiometer of the LM2596. Since the PWM signal was directly modifying the feedback pin, it introduced unwanted fluctuations and made precise voltage control difficult.  
 
