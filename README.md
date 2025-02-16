@@ -44,8 +44,6 @@ To mitigate this issue, an alternative approach using the `PWM.h` library was im
 I have taken inspiration from Electronoobs' great video on how to achieve constant voltage or constant current using an Arduino with voltage/current feedback.  
 **Watch the video here:** [Electronoobs YouTube Video](https://www.youtube.com/watch?v=rwqY0rYPlVE&ab_channel=Electronoobs)  
 
----
-
 To better understand how buck converters work and how they adjust voltage and limit current, I highly recommend checking out GreatScott!'s video.  
 **Watch the video here:** [GreatScott! YouTube Video](https://www.youtube.com/watch?v=8uoo5pAeWZI&t=458s&ab_channel=GreatScott%21) 
 
