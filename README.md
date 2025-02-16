@@ -38,6 +38,5 @@ I have taken inspiration from Electronoobs' great video on how to achieve consta
 To better understand how buck converters work and how they adjust voltage and limit current, I highly recommend checking out GreatScott!'s video.  
 **Watch the video here:** [GreatScott! YouTube Video](https://www.youtube.com/watch?v=8uoo5pAeWZI&t=458s&ab_channel=GreatScott%21)  
 
-
 ## License  
-This project is open-source and released under the [MIT License] (LICENSE)
+This project is open-source and released under the [MIT License](LICENSE).
