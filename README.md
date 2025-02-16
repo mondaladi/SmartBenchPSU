@@ -9,7 +9,7 @@ The PSU takes input from a laptop adapter and steps it down to a user-defined vo
 ## Connection Diagram  
 
 | Component       | Arduino Nano Pin | Additional Info |
-|---------------|-----------------|----------------|
+|---------------|:---------------:|----------------|
 | INA219 (SDA)  | A4              | I2C Communication at address 0x40 |
 | INA219 (SCL)  | A5              | I2C Communication at address 0x40 |
 | LCD I2C (SDA) | A4              | Shared with INA219 at address 0x27 |
