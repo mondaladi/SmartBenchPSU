@@ -9,7 +9,7 @@ The PSU takes input from a laptop adapter and steps it down to a user-defined vo
 
 ---
 
-## Connection Diagram  
+## Connections  
 
 | Component       | Arduino Nano Pin | Additional Info |
 |---------------|:---------------:|----------------|
